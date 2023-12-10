@@ -7,7 +7,7 @@ public class pi {
         int result2 = 0;
         int result3 = 0;
         int result4 = 0;
-        result1 = num1 + num2 
+        result1 = num1 + num2; 
         result2 = num1 * num2;
         result3 = num3 / num1;  
         result4 = num3 - num2;
